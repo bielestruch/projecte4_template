@@ -28,3 +28,14 @@ Editem de nou l'arxiu, ara per configurar una segona interfície enps08 en mode 
 
 ![alt text](image-7.png)
 
+Elimina el darrer commit
+
+![alt text](image-14.png)
+
+Observa com ha quedat l'arxiu a l'editor.
+
+![alt text](image-15.png)
+
+mostra l'historia
+
+![alt text](image-16.png)
