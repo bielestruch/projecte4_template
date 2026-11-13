@@ -21,3 +21,10 @@ Desfem els canvis del fitxer interficies.yaml i tornem-lo a l'estat del darrer c
 ![alt text](image-5.png)
 
 Editarem l'arxiu 00-installer-config.yaml i modificarem el valor de dhcp4 a false i afegirem una un configuració estàtica a la interfície enps03
+
+![alt text](image-6.png)
+
+Editem de nou l'arxiu, ara per configurar una segona interfície enps08 en mode DHCP:
+
+![alt text](image-7.png)
+
