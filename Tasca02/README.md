@@ -14,6 +14,10 @@ Inspecciona els canvis exactes del darrer commit amb la comanda:
 
 Simularem un error humà editant el fitxer 00-installer-config.yaml
 
+![alt text](image-18.png)
+
+Observa l'estat del repositori.
+
 ![alt text](image-4.png)
 
 Desfem els canvis del fitxer interficies.yaml i tornem-lo a l'estat del darrer commit. Això es pot fer gràficament a l'editor VS Code, fent clic amb el botó dret sobre el fitxer i seleccionant l'opció "Discard changes". També es pot fer des de la terminal amb la comanda.git restore 00-installer-config.yaml
@@ -28,6 +32,10 @@ Editem de nou l'arxiu, ara per configurar una segona interfície enps08 en mode 
 
 ![alt text](image-7.png)
 
+Per últim, incorporem canviem els servidor DNS a la configuració de la interfície enps03, perquè la configuració inicial no funcionava correctamen
+
+![alt text](image-17.png)
+
 Elimina el darrer commit
 
 ![alt text](image-14.png)
@@ -39,3 +47,4 @@ Observa com ha quedat l'arxiu a l'editor.
 mostra l'historia
 
 ![alt text](image-16.png)
+
