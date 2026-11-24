@@ -106,7 +106,10 @@ He ampliat el volum lògic lvm_dades utilitzant 30 GB de l'espai lliure del grup
 
 ![alt text](image-57.png)
 
-![alt text](image-58.png)
+![alt text](image-65.png)
+
+He creat un grup d'emmagatzematge anomenat vg_storage utilitzant tres discos durs virtuals de 10 GB cadascun per agrupar-los en un únic espai d'emmagatzematge.
+
 
 ## Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:- Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.
 ## - Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Cal usar els tres discos.
@@ -116,8 +119,21 @@ He ampliat el volum lògic lvm_dades utilitzant 30 GB de l'espai lliure del grup
 
 ![alt text](image-61.png)
 
-![alt text](image-62.png)
+![alt text](image-63.png)
 
+![alt text](image-64.png)
+
+![alt text](image-69.png)
+
+![alt text](image-66.png)
+
+![alt text](image-67.png)
+
+![alt text](image-68.png)
+
+![alt text](image-70.png)
+
+He creat els diferents espais d'emmagatzematge amb LVM. He configurat el mirall amb dos discos per duplicar les dades, la paritat amb tres discos per aprofitar millor l'espai i el mirall triple amb tres discos per tenir tres còpies de la informació.
 
 
 
