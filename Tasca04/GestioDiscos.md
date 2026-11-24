@@ -149,33 +149,3 @@ He mirat l'estat dels discos i del grup d'emmagatzematge vg_storage. També he c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](image-47.png)
-
-![alt text](image-48.png)
-
-![alt text](image-51.png)
-
-![alt text](image-50.png)
-
-![alt text](image-49.png)
-
