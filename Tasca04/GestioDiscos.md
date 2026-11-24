@@ -135,8 +135,17 @@ He creat un grup d'emmagatzematge anomenat vg_storage utilitzant tres discos dur
 
 He creat els diferents espais d'emmagatzematge amb LVM. He configurat el mirall amb dos discos per duplicar les dades, la paritat amb tres discos per aprofitar millor l'espai i el mirall triple amb tres discos per tenir tres còpies de la informació.
 
+## Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.
 
+![alt text](image-71.png)
 
+![alt text](image-72.png)
+
+![alt text](image-73.png)
+
+![alt text](image-74.png)
+
+He mirat l'estat dels discos i del grup d'emmagatzematge vg_storage. També he consultat l'espai total, l'espai lliure i els volums lògics creats per veure com estan organitzats els discos.
 
 
 
